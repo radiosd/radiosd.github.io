@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-06-29T19:00:45+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Radio System Design</title><subtitle>Radio System Design is an RF and Microwave consultancy with over 40 years of experience</subtitle><entry><title type="html">Web SDR</title><link href="http://localhost:4000/jekyll/update/2025/06/25/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Web SDR" /><published>2025-06-25T03:51:37+01:00</published><updated>2025-06-25T03:51:37+01:00</updated><id>http://localhost:4000/jekyll/update/2025/06/25/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/06/25/welcome-to-jekyll.html"><![CDATA[<h1 id="getting-started-with-sdr"><strong>Getting Started with SDR</strong></h1>
+
+<p>If you are just interested in SDR then you can find out more from our free guide.</p>
+
+<p>Or to learn more download the guide and a Ubuntu live distribution with all the 
+software and files used in the presentation from this free software link. (See also paragraph below)</p>
+
+<p><img src="/assets/images/KiwiSDRControl.png" alt="Image description" style="float: right; margin-right: 1em; max-width: 30%" />
+You don’t even need a radio or any software because, enthusiasts around the world 
+have generously installed SDRs and made them available on the web.  All you need 
+is an internet connection, a web browser and some help to get started.</p>
+
+<p>The guide is a presentation to show you the basics.  Essentially your web connection allows you to listen in and control an SRD remotely and the guide show you:</p>
+
+<ul>
+  <li>Examples of web SDRs and where you can find others</li>
+  <li>How to control kiwiSDR, which is one of the most common</li>
+  <li>How to record IQ data for further processing</li>
+  <li>Examples of processing recorded signals using GNU Radio</li>
+  <li>Some of the dedicated decoders available via web SDRs</li>
+</ul>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Getting Started with SDR]]></summary></entry></feed>
