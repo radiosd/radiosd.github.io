@@ -20,7 +20,7 @@ classes: wide
 |----|----|
 |**Python**| |
 |----|----|
-[Python101](/assets/pdf/Python as the next matlab v2.pdf)| Comprehensive introduction to python for scientific computing
+[Python101](/assets/pdf/downloads/Python-as-the-next-matlab-v2.pdf)| Comprehensive introduction to python for scientific computing
 [MatLab Alternative](/assets/pdf/downloads/downloads/Scientific-Computing-with-Python.pdf) |Python is a brilliant free alternative to Matlab
 |----|----|
 |**SDR**| |

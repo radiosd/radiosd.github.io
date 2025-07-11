@@ -23,5 +23,5 @@ Use the naviation items or the links below to find out more about radio technolo
 | [![Training](/assets/images/BlackBoard.jpg "Training")](/pages/Training) | [![Design](/assets/images/Design.png "Design")](/pages/Design)| [![Consulting](/assets/images/Consulting.jpg "Consulting")](pages/Consulting) |
 | From<br>fundamentals to 5G<br>we live and breath radio | Custom hardware design |   Experienced advice<br>on RF and microwave  design |
 
-|Interested in SDR but don't have a radio?<br>Look at our free guide to see how to use web SDR. | | [Getting Started with SDR](/pages/GettingStarted){: .btn .btn--info} |
+|Interested in SDR but don't have a radio?<br>Look at our free guide to see how to use web SDR. | | [Getting Started with SDR](/pages/GettingStarted){: .btn .btn--success} |
 
