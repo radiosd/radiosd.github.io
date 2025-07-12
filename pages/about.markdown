@@ -1,6 +1,7 @@
 ---
 layout: single
 title: About
+classes: wide
 ---
 Radio System Design is an RF, Microwave and Systems design consultancy with 
 more than 40 year experience in the commercial and military telecommunications industry.
@@ -15,7 +16,7 @@ If not, then email me your questions I will try to answer them.
 
 regards Richard
 
-email: richard@radiosystemdesign.com
+email: r.ranson@ieee.org
 
 
 

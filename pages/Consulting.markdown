@@ -1,6 +1,7 @@
 ---
 title: Consulting
 layout: "single"
+classes: wide
 ---
 ![Image description](/assets/images/Consulting.jpg){: style="float: left; margin-right: 2em; max-width: 40%"}
 Our company has extensive experience in military and commercial radio systems, successfully completing a wide variety of projects ranging from specialist radar receivers, EW and intelligence gathering radios, instrumentation such as spectrum analysers and high volume products for cellular communications. 

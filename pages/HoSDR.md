@@ -2,7 +2,7 @@
 layout: "page"
 title: Hands on SDR
 ---
-There is a [downloadable](/assets/pdf/TwoDaySDR_U19_Outline.pdf) summary of the course.
+There is a [downloadable](/assets/pdf/CourseInfo/TwoDaySDR_U19_Outline.pdf) summary of the course.
 
 
 You don't even need to have a radio to get started with SDR. Try our 
