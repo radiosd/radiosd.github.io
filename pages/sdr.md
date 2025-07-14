@@ -6,7 +6,6 @@ sidebar:
 ---
 |[WebSdr](/assets/pdf/WebSdr.pdf) | Getting started guide to using Web SDR |
 |[Part_1](/assets/pdf/downloads/SoftRadio1.pdf)<br>[Part_2](/assets/pdf/downloads/SoftRadio2.pdf)<br>[Part_3](/assets/pdf/downloads/SoftRadio3.pdf)<br>[Part_4](/assets/SoftRadio4/pdf/downloads.pdf)  | Software Defined Radio for the Masses<br> Gerald Youngblood, AC5OG<br>Founder of Flex Radio |
-|[Hogenauer](/assets/pdf/downloads/HogenauerCIC.pdf) | The original paper describing what in now the workhorse CIC filter |
 |__DSP Related__ | A brilliant website with many great articles |
 |[Lyons-1](/assets/pdf/downloads/QuadSignals-1.pdf) | Rick Lyons' "Complex but not Complicated" explanation of IQ signals |
 |[Lyons-2](/assets/pdf/Reducing_IIR_Comp_Workload_Lyons.pdf) | An invaluable reference by Rick Lyons, reducing the multiplies in an IIR filter |

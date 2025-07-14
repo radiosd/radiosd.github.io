@@ -6,7 +6,7 @@ sidebar:
    text: "Links on the web come and go, so I have saved the pdfs here for others to use and keep for themselves. The list is now getting quite long, so it has been broken out into broad categories. "
 ---
 [__Historic__](/pages/historic-papers)
-These as classic papers, that represent key advancements in radio technology.  It is neither 
+These are classic papers, that represent key advancements in radio technology.  It is neither 
 authoritive or complete, buy still interesting in my view.
 
 [__SDR__](/pages/sdr)
