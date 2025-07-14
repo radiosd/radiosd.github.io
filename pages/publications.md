@@ -16,6 +16,6 @@ many papers and presentations over the years this is a selection of publishable 
  * [Microwave Filter Design from a Systems Perspective](/assets/pdf/S403-004-2.pdf)
  * [Power Amplifiers](/assets/pdf/PowerAmpTrends.pdf)
 
-Also please look at the [downloads](/pages/downloads.html) page for some of my favourite papers.  Links on the web come and go, so I have saved the pdfs here for others to use and keep for themselves. 
+Also please look at the [downloads](/pages/downloads) page for some of my favourite papers.  Links on the web come and go, so I have saved the pdfs here for others to use and keep for themselves. 
 
 <!--I will also add to this as time and disk space allows. -->
