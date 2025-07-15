@@ -3,17 +3,9 @@ main:
     url: /pages/about/
   - title: "Products"
     url: /pages/products
-#    children:
-#    - title "Training"
-#      url: /pages/training
-#    - title: "Design"
-#      url: /pages/design
-#    - title: "Consulting"
-#      url: /pages/consulting
   - title: "Publications"
     url: /pages/publications/
   - title: "Downloads"
     url: /pages/downloads/
-#  - title: "External Link"
-#    url: https://google.com
-#    target: _blank
+#  - title: "Blog"
+#    url: /pages/sandbox

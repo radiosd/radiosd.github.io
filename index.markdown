@@ -13,7 +13,7 @@ sidebar:
 Radio signals are used in a huge variety of applications.  In fact the radio spectrum, 
 which starts at only 500kHz extends to almost 500 GHz and is completley filled with different 
 services.  Things from submarine to satellite communications; mobile phone to wireless 
-broadcasts, clothing tabs to aircraft navigation, all use the radio spectrum.
+broadcasts, clothing tags to aircraft navigation, all use the radio spectrum.
 
 We use these services every day, maybe without fully realising the challenges that are 
 overcome to deliver them. 
