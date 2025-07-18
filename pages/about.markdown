@@ -9,7 +9,7 @@ This experience is leveraged into some interesting [training](/pages/Training) c
 product [design](/pages/Design) and some sucess helping others via [consulting](/pages/Consulting).
 
 Take a look at the [downloads](/pages/downloads) section for links to historic publications, 
-my own [publications](/pages/publications) and browse the blog posts for history and background to this site.
+my own [publications](/pages/publications) and browse the blog posts (under construction) for history and background to this site.
 
 I hope you have found this site interesting and found what you were looking for. 
 If not, then email me your questions I will try to answer them.

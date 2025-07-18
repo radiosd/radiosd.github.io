@@ -18,6 +18,10 @@ gem "minimal-mistakes-jekyll"
 
 # RGR try out this plugin to help create blog posts
 gem 'jekyll-compose', group: [:jekyll_plugins]
+# and/or this one
+gem 'jekyll-admin', group: :jekyll_plugins
+# add thi for Cllloudflare build
+gem "github-pages", group: :jekyll_plugins
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
