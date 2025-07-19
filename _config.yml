@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "radiosd/radiosd.github.io"
+# remote_theme           : "radiosd/radiosd.github.io"
 minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -21,8 +21,8 @@ title                    : "Radio System Design"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Richard G. Ranson"
-description              : "RSD amazing website."
-url                      : "https://radiosd.gitbub.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Radio System Design website"
+url                      : "/" # "https://radiosd.gitbub.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "radiosd/radiosd.github.io"  # e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"

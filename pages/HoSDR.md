@@ -1,12 +1,12 @@
 ---
-layout: "page"
+layout: single
 title: Hands on SDR
 ---
 There is a [downloadable](/assets/pdf/CourseInfo/TwoDaySDR_U19_Outline.pdf) summary of the course.
 
 
 You don't even need to have a radio to get started with SDR. Try our 
-[free Guide](/assets/pdf.WebSdr.pdf to getting started with SDR to find out more.
+[free Guide](/assets/pdf/WebSdr.pdf) to getting started with SDR to find out more.
 
 ### Technology Focus
 Modern radio systems now rely on digital signal processing for more and more functions in both 

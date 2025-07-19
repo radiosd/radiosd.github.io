@@ -13,14 +13,16 @@ source "https://rubygems.org"
 
 # To upgrade, run `bundle update`.
 
-gem "jekyll"
-gem "minimal-mistakes-jekyll"
+# gem "jekyll"
+# gem "minimal-mistakes-jekyll"
 
 # RGR try out this plugin to help create blog posts
-gem 'jekyll-compose', group: [:jekyll_plugins]
+ #gem 'jekyll-compose', group: [:jekyll_plugins]
 # and/or this one
-gem 'jekyll-admin', group: :jekyll_plugins
-# add thi for Cllloudflare build
+# gem 'jekyll-admin', group: :jekyll_plugins
+# add this for Cloudflare build
+git_source(:github) { radiosd/radiosd.github.io | "https://github.com/radiosd/radiosd.gutbub.io" }
+
 gem "github-pages", group: :jekyll_plugins
 
 # The following plugins are automatically loaded by the theme-gem:

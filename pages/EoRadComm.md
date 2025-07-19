@@ -1,6 +1,6 @@
 ---
 title: Essentials of Radio Communications
-layout: "page"
+layout: "single"
 ---
 There is a [downloadable](/assets/pdf/ThreeDayEssentialsOutline.pdf) summary of the course.
 
