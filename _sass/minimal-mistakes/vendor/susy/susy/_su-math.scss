@@ -3,7 +3,7 @@
 /// The `su` functions give you direct access to the math layer,
 /// without any syntax-sugar like shorthand parsing, and normalization.
 /// If you prefer named arguments, and stripped-down syntax,
-/// you can use these functions directly in your code –
+/// you can use these functions directly in your code
 /// replacing `span`, `gutter`, and `slice`.
 ///
 /// These functions are also useful
@@ -28,7 +28,7 @@
 // Su Span
 // -------
 /// Calculates and returns a CSS-ready span width,
-/// based on normalized span and context data –
+/// based on normalized span and context data
 /// a low-level version of `susy-span`,
 /// with all of the logic and none of the syntax sugar.
 ///
