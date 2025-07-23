@@ -19,7 +19,7 @@ source "https://rubygems.org"
 # RGR try out this plugin to help create blog posts
  #gem 'jekyll-compose', group: [:jekyll_plugins]
 # and/or this one
-# gem 'jekyll-admin', group: :jekyll_plugins
+gem 'jekyll-admin', group: :jekyll_plugins
 # add this for Cloudflare build
 git_source(:github) { radiosd/radiosd.github.io | "https://github.com/radiosd/radiosd.gutbub.io" }
 

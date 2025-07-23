@@ -3,6 +3,7 @@ layout: single
 classes: wide
 sidebar:
  - title: "Book Recomendations"
+ - text : "See also<br>[__Historic__](/pages/historic-papers)<br>[__SDR__](/pages/sdr)<br>[__Python__](/pages/python)"
 ---
 ## Radio History
 Empires of the Air: The Men Who Made Radio, Tom Lewis

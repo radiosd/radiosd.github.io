@@ -3,6 +3,7 @@ layout: single
 classes: wide
 sidebar:
  - title: Python
+ - text: "See also<br>[__Historic__](/pages/historic-papers)<br>[__SDR__](/pages/sdr)<br>[__Books__](/pages/books)"
 ---
 [Python101](/assets/pdf/downloads/Python-as-the-next-matlab-v2.pdf)| Comprehensive introduction to python for scientific computing
 [MatLab Alternative](/assets/pdf/downloads/downloads/Scientific-Computing-with-Python.pdf) |Python is a brilliant free alternative to Matlab

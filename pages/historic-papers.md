@@ -3,6 +3,7 @@ layout: single
 classes: wide
 sidebar:
  - title: "Classic References"
+ - text: "See also<br>[__SDR__](/pages/sdr)<br>[__Python__](/pages/python)<br>[__Books__](/pages/books)"
 ---
 
 |[Maxwell](/assets/pdf/downloads/MathematicalClassificationofPhysicalQuantities_Maxwell.pdf) |First description and rational for the curl operator |
