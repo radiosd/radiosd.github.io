@@ -10,7 +10,7 @@ sidebar:
  - title: "Interested in SDR?"
    text : "Even if you don't have a radio take a look at our free guide to see how to use web SDR. <br><br>[Getting Started with SDR](/pages/GettingStarted){: .btn .btn--success}"
 ---
-__Radio signals__ are used in a huge variety of applications.  In fact the radio spectrum, 
+Radio signals are used in a huge variety of applications.  In fact the radio spectrum, 
 which starts at only 500kHz extends to almost 500 GHz and is completley filled with different 
 services.  Things from submarine to satellite communications; mobile phone to wireless 
 broadcasts, clothing tags to aircraft navigation, all use the radio spectrum.
