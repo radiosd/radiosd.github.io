@@ -3,7 +3,7 @@ title: Essentials of Radio Communications
 layout: "single"
 classes: wide
 ---
-There is a [downloadable](/assets/pdf/CouseInfo/ThreeDayEssentialsOutline.pdf) summary of the course.
+There is a [downloadable](/assets/pdf/CourseInfo/ThreeDayEssentialsOutline.pdf) summary of the course.
 
 ## Technology Focus
 Wireless connectivity is entering all corners of the applications space from phones and computers to every day items 
