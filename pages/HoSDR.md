@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Hands on SDR
+classes: wide
 ---
 There is a [downloadable](/assets/pdf/CourseInfo/TwoDaySDR_U19_Outline.pdf) summary of the course.
 
@@ -18,7 +19,7 @@ During the course students complete a QPSK radio link; digits to RF and back to 
 concepts of SDR. There was a preview of some of the ideas in this course given at the April 2018 
 ARMMS conference in Oxford.  A_NewGoldenAgeOfRadio.pdf
 
-Course Objective and Who should Attend
+__Course Objective and Who should Attend__
 This is a course focusing on understanding and applying key principles of digital radio concepts. 
 It is for product developers wanting to exploit new radio ideas as well as established engineers 
 looking to better understand the interface between digital signals and analogue RF hardware. The 
@@ -27,14 +28,15 @@ continuous time signals. Then, using the software and hardware provided, the obj
 demonstrate a QPSK modulated transmitter, receive and decode the signals. Along the way students 
 will learn the details of the various steps, observe fundamental DSP concepts as well as apprciate 
 how modern highly integrated RF ICs make it staight forward to apply to this to a huge range of 
-possible applications.
+possible applications. All the material is reinforced with practical, interactive demonstrations 
+using either the Pluto hardare and/or electronic notebook style software.  
 
 ## Day 1
 After a brief introduction and familiarisation with the hardware and software, students will build 
 a basic FM broadcast receiver to observe the practical issues of bandwidth, sampling rate, sample 
 rate conversion and filtering. These topics are then developed further as individual modules for 
 the remaining day. Items covered include aliased signals, dynamic range as well as fundamentals 
-of digital filters, interpolation, decimation and resampling.
+of digital filters, interpolation, decimation and resampling. 
 
 ## Day 2
 Building from day 1, the development of a QPSK modulated transmitter and corresponding receiver 

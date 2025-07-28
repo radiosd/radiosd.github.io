@@ -7,7 +7,7 @@ sidebar:
 ---
 [__Historic__](/pages/historic-papers)
 These are classic papers, that represent key advancements in radio technology.  It is neither 
-authoritive or complete, buy still interesting in my view.
+authoritive or complete, but still interesting in my view.
 
 [__SDR__](/pages/sdr)
 One of the most important developments in radio in recent times. There are lots of possible links to
