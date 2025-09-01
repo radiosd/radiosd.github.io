@@ -12,7 +12,7 @@ There are 2 courses currently available: <br/> 1. Essentials of Radio Communicat
 
 
 Public courses are available by request from [CEI-Europe](https://www.cei.se/instructor-profile-richard-g-ranson) and 
-[R&S Technology Academy](https://www.rohde-schwarz.com/cloud/store/US/en/USD/c/training?query=sdr:relevance:allCategories:training:tacProductFormat:CLASSROOM). 
+[R&S Technology Academy](https://www.rohde-schwarz.com/cloud/store/GB/en/EUR/product/3716.8618.40/R&S%C2%AEHands%20-on%20Software%20Defined%20Radio%20Concepts). 
 The next scheduled courses are in Fleet Hampshire, Oct 2-3.
 
 

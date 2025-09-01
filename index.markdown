@@ -7,6 +7,8 @@ sidebar:
  - title: ""
    image: /assets/images/hilltop3.png
    text: "With over 40 years experience in RF and Microwave industry this website aims to pass that on in some way."
+ - title: "Next SDR Class"
+   text : "Is in Fleet, Hampshire on Oct 2-3.  See details at [R&S Technology Academy](https://www.rohde-schwarz.com/cloud/store/GB/en/EUR/product/3716.8618.40/R&S%C2%AEHands%20-on%20Software%20Defined%20Radio%20Concepts)"
  - title: "Interested in SDR?"
    text : "Even if you don't have a radio take a look at our free guide to see how to use web SDR. <br><br>[Getting Started with SDR](/pages/GettingStarted){: .btn .btn--success}"
 ---
@@ -18,7 +20,7 @@ broadcasts, clothing tags to aircraft navigation, all use the radio spectrum.
 We use these services every day, maybe without fully realising the challenges that are 
 overcome to deliver them. 
 
-Use the naviation items or the links below to find out more about radio technology and our products and services.
+Use the naviation items or the links below to find out more about radio technology and our products and services. 
 
 | [Training](/pages/Training) | [Design](/pages/Design) | [Consulting](pages/Consulting) |
 |:----:|:----:|:----:|

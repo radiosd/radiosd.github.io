@@ -17,7 +17,7 @@ Crystal Fire: The Invention of the Transistor and the Birth of the Information A
 ## Computers
 Dealers of Lightning: Xerox PARC and the dawn of the Computer Age, Michael Hiltzik
 
-Where Wizards Stay up Late: the birth of the internet,  Katie Hafner 
+Where Wizards Stay up Late: The birth of the internet,  Katie Hafner 
 
 ## Mathematics
 Journey Through Genius: The Great Theorems of Mathematics, William Dunham
