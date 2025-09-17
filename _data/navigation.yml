@@ -7,5 +7,5 @@ main:
     url: /pages/publications/
   - title: "Downloads"
     url: /pages/downloads/
-#  - title: "Blog"
-#    url: /pages/blogs
+  - title: "Blog"
+    url: /pages/blogs
