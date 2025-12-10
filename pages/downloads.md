@@ -2,9 +2,12 @@
 layout: single
 classes: wide
 sidebar:
- - title: ""
-   text: "Links on the web come and go, so I have saved the pdfs here for others to use and keep for themselves. The list is now getting quite long, so it has been broken out into broad categories. "
+- title: ''
+  text: Links on the web come and go, so I have saved the pdfs here for others to
+    use and keep for themselves. The list is now getting quite long, so it has been
+    broken out into broad categories.
 ---
+
 [__Historic__](/pages/historic-papers)
 These are classic papers, that represent key advancements in radio technology.  It is neither 
 authoritive or complete, but still interesting in my view.
@@ -16,7 +19,7 @@ add, but these are a few that I think are readable explanations of what is other
 [__Python__](/pages/python)
 Not wishing to get into flame wars about programming languages, this is an unabashed plug for one option.
 I discovered Python over 20 years ago and gave up on all other programming for the simple reason that I found 
-that it helped me get things done.  Then running a small business, the fact that it is absolutely free, has a tremendous 
+that it helped me get things done.  Then, when I started running a small business, the fact that it is absolutely free, has a tremendous 
 libraries with a vibrant and helpful community just solidified that choice.
 
 [__Books__](/pages/books)

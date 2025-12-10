@@ -1,14 +1,19 @@
 ---
+title: Getting Started with SDR
 layout: single
 classes: wide
-title: Getting Started with SDR
 ---
+
+![Waterfall Display](/assets/images/40mScreenshot.png){: style="float: left; margin-right: 2em; max-width: 40%"}
+
 Web SDR gives you a way to try out SDR without even buying a radio. 
 Enthusiasts around the world have generously installed SDRs and made them available on the web.  
 All you need is an internet connection, a web browser and some help to get started.
 
 
-![Image description](/assets/images/KiwiSDRControl.png){: style="float: right; margin-left: 2em; max-width: 30%"}
+
+
+![IKiwiSDR control Panel](/assets/images/KiwiSDRControl.png){: style="float: right; margin-left: 2em; max-width: 30%"}
 If you would like to find out more download a free presentation that acts as a [guide](/assets/pdf/WebSdr.pdf).
   Essentially your web connection allows you to listen in and control an SRD remotely, with the guide 
 showing:

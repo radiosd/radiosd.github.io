@@ -2,16 +2,20 @@
 layout: single
 classes: wide
 sidebar:
- - title: "Dr. Richard G. Ranson"
-   text: "IEEE Life Fellow"
- - title: ""
-   image: /assets/images/hilltop3.png
-   text: "With over 40 years experience in RF and Microwave industry this website aims to pass that on in some way."
- - title: "Next SDR Class"
-   text : "Is in Fleet, Hampshire on Oct 2-3.  See details at [R&S Technology Academy](https://www.rohde-schwarz.com/cloud/store/GB/en/EUR/product/3716.8618.40/R&S%C2%AEHands%20-on%20Software%20Defined%20Radio%20Concepts)"
- - title: "Interested in SDR?"
-   text : "Even if you don't have a radio take a look at our free guide to see how to use web SDR. <br><br>[Getting Started with SDR](/pages/GettingStarted){: .btn .btn--success}"
+- title: Dr. Richard G. Ranson
+  text: IEEE Life Fellow
+- title: ''
+  image: "/assets/images/hilltop3.png"
+  text: With over 40 years experience in RF and Microwave industry this website aims
+    to pass that on in some way.
+- title: Next Radio Class
+  text: Is in Barcelona, Spain on April 13-15.  See details at [CEI-Europe](https://www.cei.se/course-026-essentials-of-radio-communications-systems-group.html)
+- title: Interested in SDR?
+  text: 'Even if you don''t have a radio take a look at our free guide to see how
+    to use web SDR. <br><br>[Getting Started with SDR](/pages/GettingStarted){: .btn
+    .btn--success}'
 ---
+
 Radio signals are used in a huge variety of applications.  In fact the radio spectrum, 
 which starts at only 500kHz extends to almost 500 GHz and is completley filled with different 
 services.  Things from submarine to satellite communications; mobile phone to wireless 
@@ -28,4 +32,3 @@ Use the naviation items or the links below to find out more about radio technolo
 | From<br>fundamentals to 5G<br>we live and breath radio | Custom hardware design |   Experienced advice<br>on RF and microwave  design |
 
 <!-- |Interested in SDR but don't have a radio?<br>Look at our free guide to see how to use web SDR. | | [Getting Started with SDR](/pages/GettingStarted){: .btn .btn--success} | -->
-
