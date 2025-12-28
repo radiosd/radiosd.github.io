@@ -15,7 +15,7 @@ All you need is an internet connection, a web browser and some help to get start
 
 ![IKiwiSDR control Panel](/assets/images/KiwiSDRControl.png){: style="float: right; margin-left: 2em; max-width: 30%"}
 If you would like to find out more download a free presentation that acts as a [guide](/assets/pdf/WebSdr.pdf).
-  Essentially your web connection allows you to listen in and control an SRD remotely, with the guide 
+  Essentially your web connection allows you to listen in and control an SDR remotely, with the guide 
 showing:
  * Examples of web SDRs and where you can find others
  * How to control kiwiSDR, which is one of the most common

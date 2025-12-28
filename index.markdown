@@ -8,8 +8,9 @@ sidebar:
   image: "/assets/images/hilltop3.png"
   text: With over 40 years experience in RF and Microwave industry this website aims
     to pass that on in some way.
-- title: Next Radio Class
-  text: Is in Barcelona, Spain on April 13-15.  See details at [CEI-Europe](https://www.cei.se/course-026-essentials-of-radio-communications-systems-group.html)
+- title: Next Class
+  text: Is [Essentials of Radio Communication](pages/EoRadComm) in Barcelona, Spain
+    on April 13-15.  See booking details at [CEI-Europe](https://www.cei.se/course-026-essentials-of-radio-communications-systems-group.html)
 - title: Interested in SDR?
   text: 'Even if you don''t have a radio take a look at our free guide to see how
     to use web SDR. <br><br>[Getting Started with SDR](/pages/GettingStarted){: .btn
