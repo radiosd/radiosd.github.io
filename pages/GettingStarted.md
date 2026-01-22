@@ -7,7 +7,7 @@ classes: wide
 ![Waterfall Display](/assets/images/40mScreenshot.png){: style="float: left; margin-right: 2em; max-width: 40%"}
 
 Web SDR gives you a way to try out SDR without even buying a radio. 
-Enthusiasts around the world have generously installed SDRs and made them available on the web.  
+Enthusiasts around the [world](https://rx-tx.info/map-sdr-points) have generously installed SDRs and made them available on the web.  
 All you need is an internet connection, a web browser and some help to get started.
 
 
@@ -39,3 +39,5 @@ take several minutes to download.
 Once downloaded, unzip it to see 4 files, 3 are information and 1 is the Ubuntu ISO image file.  
 From there you can follow the instructions to create a boot disk, learn more from the getting 
 started guide and be able to use GNU Radio for yourself. -->
+
+To get started try looking at the [world map](https://rx-tx.info/map-sdr-points) to see how many SRDs are out there, pick one and give it a try.  Two good examples in different time zones are [GB0SNB](http://sdr.gb0snb.com:8073/) and [KFS ](http://kiwisdr.kfsdr.com:8077/); the latter of which has several SDRs on an established radio station site. Remember that radio propagation varies considerably with frequency and time of day, so if you don't see any activity on the radio you pick, it may just be quiet at that moment; try another band or location. With SDR the worls really is at your fingertips.
