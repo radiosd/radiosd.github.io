@@ -404,7 +404,8 @@ body {
     border-bottom: 1px solid $border-color;
   }
 }
-// RGR added to change the number of columns in the blog post table
+// RGR dup of .taxonomy__index
+// with changes to number of columns in the blog post table
 .taxonomy__posts_index {
   display: grid;
   grid-column-gap: 2em;
