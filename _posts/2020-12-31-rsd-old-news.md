@@ -14,7 +14,7 @@ __Aug 2018:__  A substantial new contract for manufacture of USB controlled tuna
 ceramic resonator filter.
 
 __July 2018:__  Published on github, a comprehensive python class to interface and control 
-ADALM pluto SDR. See link
+ADALM pluto SDR. See [link](https://github.com/radiosd/PlutoSdr)
 
 __Apr 2018:__ Published a paper on SDR and presented it at the April ARMMS conference in 
 Oxford, England.

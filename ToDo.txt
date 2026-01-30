@@ -1,0 +1,61 @@
+Changes to this folder for website improvements
+===============================================
+
+Note changes here, removing them when incorporated into the local repo.  
+Eventually commiting and pushing to complete the change.
+Include this file in the repo to help track changes. When doing a commit
+first note here what has been changed/fixed. Then commit and remove those comments.
+Then add new ones for actions it the next commit.
+
+Not sure what to do about the RSS feed at the bottom - removed
+
+Notes on Commit/Push
+====================
+It is helpful to retain some difference between the published and local copies.
+1) The local _data/navigation file has the Blogs link added to help add contnent 
+2) The Gemfile includes the jekyll-admin gem to help edit and add content
+To avoid neither of these changes being published they should not be commited.
+So DO NOT add them to the staging area before a commit.
+
+Errors / Misssing Links
+=======================
+X In RSD News July 2018 these was a link to the github page for pluto.py
+
+X Also in config.yaml there is a "atom_feed:" section, change hide to true. all after '#' is a comment
+
+X The Consulting page refers to News, and a link could be added.
+
+X Design page says RDS instead of RSD
+
+X Training page first sentence r/course/courses/
+
+Improvements
+============
+Blog section is now active, but new or unfinshed posts will be in local only
+
+Getting Started - this could be made into pages
+   Consider breaking out chunks of the presentation and putting them in here with links in the LH side bar 
+
+Footer. I think I have found how to shrink this.  _includes/footer.html refers to 
+class="page__footer-copyright" which is in a stylesheet somewhere. Look for and change it
+
+Blog posts to be added
+   Python best practice wrt logging
+   Translating Matlab to Python
+   system path and python path info
+
+Also want to understand tags and groups to pull together items that are 
+somehow associated.
+
+Working Notepad
+===============
+
+I have also been looking a lubuntu as a smaller alternative.
+
+Blog release.
+  DotNotation - the first python post
+
+Maybe start a history thread to understand tags/groups. Work from 2010 ish
+
+NPA create a list of usefu blog posts to add to the repo and then commit as a batch
+

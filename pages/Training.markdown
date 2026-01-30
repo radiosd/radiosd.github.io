@@ -4,7 +4,7 @@ layout: single
 classes: wide
 ---
 
-Drawing on over 40 years of experience in the RF and microwave industry the technical training course are based on sound knowledge and practical application of the subject. On-site and bespoke course can  be arranged by arranging things directly, just drop an e-mail to r.ranson@ieee.org to discuss the possibilities.  Alternatiovely public courses are available
+Drawing on over 40 years of experience in the RF and microwave industry the technical training courses are based on sound knowledge and practical application of the subject. On-site and bespoke courses can  be arranged by arranging things directly, just drop an e-mail to r.ranson@ieee.org to discuss the possibilities.  Alternatiovely public courses are available
 
 
 
