@@ -7,8 +7,6 @@ Include this file in the repo to help track changes. When doing a commit
 first note here what has been changed/fixed. Then commit and remove those comments.
 Then add new ones for actions it the next commit.
 
-Not sure what to do about the RSS feed at the bottom - removed
-
 Notes on Commit/Push
 ====================
 It is helpful to retain some difference between the published and local copies.
@@ -19,19 +17,14 @@ So DO NOT add them to the staging area before a commit.
 
 Errors / Misssing Links
 =======================
-X In RSD News July 2018 these was a link to the github page for pluto.py
 
-X Also in config.yaml there is a "atom_feed:" section, change hide to true. all after '#' is a comment
-
-X The Consulting page refers to News, and a link could be added.
-
-X Design page says RDS instead of RSD
-
-X Training page first sentence r/course/courses/
 
 Improvements
 ============
-Blog section is now active, but new or unfinshed posts will be in local only
+X Blog section is now active, but new or unfinshed posts will be in local only
+X now have enough blog entries to list the tags and have separate pages
+  for each tage
+
 
 Getting Started - this could be made into pages
    Consider breaking out chunks of the presentation and putting them in here with links in the LH side bar 
@@ -42,10 +35,10 @@ class="page__footer-copyright" which is in a stylesheet somewhere. Look for and 
 Blog posts to be added
    Python best practice wrt logging
    Translating Matlab to Python
-   system path and python path info
+   System path and python path info
 
 Also want to understand tags and groups to pull together items that are 
-somehow associated.
+somehow associated. Now have tags working V17 A19
 
 Working Notepad
 ===============
@@ -53,7 +46,7 @@ Working Notepad
 I have also been looking a lubuntu as a smaller alternative.
 
 Blog release.
-  DotNotation - the first python post
+X  DotNotation - the first python post
 
 Maybe start a history thread to understand tags/groups. Work from 2010 ish
 
