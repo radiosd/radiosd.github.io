@@ -1,0 +1,17 @@
+Changes to Posts year and count table display
+
+The markdown starts from posts-taxonomy.html 
+    class="taxonomy__index"
+
+Which is defined in _scss/minimal-mistakes/_pages.sccc
+381  .taxonomy__index() {
+...
+391      grid-template-columns: repeat(3, 1fr);  
+...
+406   }
+
+If I create a new class here say taxonomy-index-posts, which is a
+Duplicate of the original but with repeats(5).  Then use that name in the 
+posts-taxonomy.html file then that would alter the layout here without
+messing up anything else.
+
