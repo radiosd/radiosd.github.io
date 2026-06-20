@@ -8,5 +8,6 @@ Thoroughly recommended.  [link](https://www.dsprelated.com/foundations.php)
 
 1. Trigonometry - the language of oscillations,
 2. Complex Numbers - the power of 2 dimensions,
-3. Signals - from math(s) to signal processing and
-4. Systems and Convolution - what happens when signals pass through systems.
+3. Signals - from math(s) to signal processing,
+4. Calculus for DSP - relating discrete and continuous algebra and
+5. Systems and Convolution - what happens when signals pass through systems.

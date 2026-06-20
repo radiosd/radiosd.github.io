@@ -4,7 +4,7 @@ layout: single
 classes: wide
 ---
 
-Drawing on over 40 years of experience in the RF and microwave industry the technical training courses are based on sound knowledge and practical application of the subject. On-site and bespoke courses can  be arranged by arranging things directly, just drop an e-mail to r.ranson@ieee.org to discuss the possibilities.  Alternatiovely public courses are available
+Drawing on over 40 years of experience in the RF and microwave industry the technical training courses are based on sound knowledge and practical application of the subject. On-site and bespoke courses can  be arranged  directly; just drop an e-mail to r.ranson@ieee.org to discuss the possibilities.  Alternatively public courses are available
 
 
 
@@ -22,7 +22,7 @@ into managable topics that cover all the important aspects.  See this [summary](
  * The 2 day SDR course is a practical approach to understanding the mathematical basis of digital 
 signal processing (DSP) using actual radio hardware to solidify the understanding. See this [summary](/pages/HoSDR) for more information. 
 
-The  the next scheduled [3 day course](https://www.cei.se/course-026-essentials-of-radio-communications-systems-group.html) is  in Barcelona, April 13 - 15.
+There are unfortunately no scheduled courses at the moment.  But if you are interested then contact r.ranson@ieee.org directly to find out what is being planned.
 
 For those wanting to get started with understanding SDR, there are 
 the notes from a [lecture](/assets/pdf/WebSdr.pdf) available which act 
