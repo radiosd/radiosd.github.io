@@ -7,3 +7,22 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+/* Your Custom Download Button Styles */
+.download-btn {
+  /* display: inline-block; */
+  display: float-right;
+  background-color: #0070f3;
+  color: #ffffff !important;
+  padding: 14px 28px;
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 6px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.1s ease, background-color 0.2s ease;
+}
+
+.download-btn:hover {
+  background-color: #0051a8;
+  transform: translateY(-1px);
+}
