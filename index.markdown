@@ -8,13 +8,13 @@ sidebar:
   image: "/assets/images/hilltop3.png"
   text: With over 40 years experience in RF and Microwave industry this website aims
     to pass that on in some way.
+- title: Next Class
+  text: Neither the [Essentials of Radio Communication](pages/EoRadComm) nor the [Hands
+    on SDR](pages/HoSDR) classes are currently scheduled.
 - title: Interested in SDR?
   text: 'Even if you don''t have a radio take a look at our free guide to see how
     to use web SDR. <br><br>[Getting Started with SDR](/pages/GettingStarted){: .btn
     .btn--success}'
-- title: Next Class
-  text: Neither the [Essentials of Radio Communication](pages/EoRadComm) nor the [Hands
-    on SDR](pages/HoSDR) classes are currently scheduled.
 ---
 
 Radio signals are used in a huge variety of applications.  In fact the radio spectrum, 

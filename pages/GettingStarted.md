@@ -4,13 +4,6 @@ layout: single
 classes: wide
 ---
 
-There is an  image of a linux distribution that can help you get started:
-
-<a href="{{ site.r2_url }}/SDR_StarterDisk.zip" class="download-btn" download>
-  💾 Download ISO Image (7GB)
-</a>
-
-----
 ![Waterfall Display](/assets/images/40mScreenshot.png){: style="float: left; margin-right: 2em; max-width: 40%"}
 
 Web SDR gives you a way to try out SDR without even buying a radio. 
@@ -31,7 +24,7 @@ showing:
  * Some of the dedicated decoders available via web SDRs
 
 In the guide, processing of recorded file is illustrated using GNU Radio.  If you do not have 
-access to this very useful software, then you could try a downloadable [Ubuntu image]({{ site.rs_url}}/SDR_StarterDisk.zip){: download="SDR_StarterDisk.zip"}
+access to this very useful software, then you could try a downloadable [Ubuntu image](https://tinyurl.com/SDR-Starter) 
 with all that pre-installed. Note that it is quite large (~7GB) and depending on your internet connection will take several 
 minutes to download.  When finished, unzip it to see 4 files, 3 are information and 1 is the 
 Ubuntu ISO image file.  From there you can follow the instructions to create a boot disk, 

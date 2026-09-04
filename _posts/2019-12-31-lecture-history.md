@@ -1,6 +1,5 @@
 ---
 title: Lecture History
-classes: wide
 tags:
 - Lectures
 - News
