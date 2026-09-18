@@ -4,11 +4,21 @@ layout: single
 classes: wide
 ---
 
-There is an  image of a linux distribution that can help you get started:
+<div style="display: flex; align-items: center; gap: 1em;">
 
-<a href="{{ site.r2_url }}/SDR_StarterDisk.zip" class="download-btn" download>
-  💾 Download ISO Image (7GB)
-</a>
+  <p style="flex: 1; margin: 0;">
+    This is an image of a Linux distribution that can help you get started.
+  </p>
+
+  <a
+    href="https://downloads.radiosystemdesign.com/SDR_StarterDisk.zip"
+    class="download-btn"
+    download
+  >
+    💾 Download ISO Image (7GB)
+  </a>
+
+</div>
 
 ----
 ![Waterfall Display](/assets/images/40mScreenshot.png){: style="float: left; margin-right: 2em; max-width: 40%"}
@@ -30,8 +40,7 @@ showing:
  * Examples of processing recorded signals using GNU Radio
  * Some of the dedicated decoders available via web SDRs
 
-In the guide, processing of recorded file is illustrated using GNU Radio.  If you do not have 
-access to this very useful software, then you could try a downloadable [Ubuntu image]({{ site.rs_url}}/SDR_StarterDisk.zip){: download="SDR_StarterDisk.zip"}
+In the guide, processing of recorded file is illustrated using GNU Radio.  This is a fantastic, open source, cross platform tool for discovering DSP.  There are installation instructions [here](https://wiki.gnuradio.org/index.php/InstallingGR) or you can use the button at the top of the page for a download
 with all that pre-installed. Note that it is quite large (~7GB) and depending on your internet connection will take several 
 minutes to download.  When finished, unzip it to see 4 files, 3 are information and 1 is the 
 Ubuntu ISO image file.  From there you can follow the instructions to create a boot disk, 
@@ -47,4 +56,4 @@ Once downloaded, unzip it to see 4 files, 3 are information and 1 is the Ubuntu 
 From there you can follow the instructions to create a boot disk, learn more from the getting 
 started guide and be able to use GNU Radio for yourself. -->
 
-To get started try looking at the [world map](https://rx-tx.info/map-sdr-points) to see how many SRDs are out there, pick one and give it a try.  Two good examples in different time zones are [GB0SNB](http://sdr.gb0snb.com:8073/) and [KFS ](http://kiwisdr.kfsdr.com:8077/); the latter of which has several SDRs on an established radio station site. Remember that radio propagation varies considerably with frequency and time of day, so if you don't see any activity on the radio you pick, it may just be quiet at that moment; try another band or location. With Web SDR, the world really is at your fingertips.
+To start listening to WebSDR straight away, try looking at the [world map](https://rx-tx.info/map-sdr-points) to see how many SRDs are out there, pick one and give it a try.  Two good examples in different time zones are [GB0SNB](http://sdr.gb0snb.com:8073/) and [KFS ](http://kiwisdr.kfsdr.com:8077/); the latter of which has several SDRs on an established radio station site. Remember that radio propagation varies considerably with frequency and time of day, so if you don't see any activity on the radio you pick, it may just be quiet at that moment; try another band or location. With Web SDR, the world really is at your fingertips.

@@ -9,6 +9,5 @@ sidebar:
 - title: |-
   text:  This is a new site for personal interests, that also documents previous (circa 2025) content contemporaneously recorded from Radio System Design UK Ltd.
 
-
 ---
 

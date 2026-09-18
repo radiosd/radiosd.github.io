@@ -48,7 +48,7 @@ I have also been looking a lubuntu as a smaller alternative.
 Blog release.
 X  DotNotation - the first python post
 
-Maybe start a history thread to understand tags/groups. Work from 2010 ish
+X Maybe start a history thread to understand tags/groups. Work from 2010 ish
 
 NPA create a list of usefu blog posts to add to the repo and then commit as a batch
 
