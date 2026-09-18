@@ -6,15 +6,16 @@ sidebar:
   text: IEEE Life Fellow
 - title: ''
   image: "/assets/images/hilltop3.png"
-  text: With over 40 years experience in RF and Microwave industry this website aims
+  text: With over 45 years experience in RF and Microwave industry this website aims
     to pass that on in some way.
 - title: Interested in SDR?
   text: 'Even if you don''t have a radio take a look at our free guide to see how
     to use web SDR. <br><br>[Getting Started with SDR](/pages/GettingStarted){: .btn
     .btn--success}'
 - title: Next Class
-  text: Neither the [Essentials of Radio Communication](pages/EoRadComm) nor the [Hands
-    on SDR](pages/HoSDR) classes are currently scheduled.
+  text: Both  the [Essentials of Radio Communication](pages/EoRadComm)  and the [Hands
+    on SDR](pages/HoSDR) classes are currently scheduled for September 21st and 29th
+    in Southampton.
 ---
 
 Radio signals are used in a huge variety of applications.  In fact the radio spectrum, 
