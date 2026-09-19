@@ -20,10 +20,12 @@ be *found_items = <some calculation>*; much clearer.
 Another very important idea here is introspection, where defined objects themselves can be examined 
 for information.  When defining a new class or function, it is not unusual to add some useful 
 comment, then putting in tripple quotes turns into help, that is available from the command line or the 
-editor or even a pop up bubble as you type the synbol.  So easy, making readable code more usable 
+editor or even a pop up bubble as you type the symbol.  So easy, making readable code more usable 
 as well.
 
 Finally, I think the idea that all symbols are explictly named via the 
 [dot notation]({% post_url 2026-01-24-dot-notation%}) is brilliant.  When re-reading source code 
 there is never any doubt what a symbol refers to and, you can find it either in that file or via 
-the file specifically named in an  import statement.
+the file specifically named in an  import statement. Also, if in doubt, all objects have either a 
+\__file__ or \__module__ property, that gives the path to the file/module that contains the 
+definition.

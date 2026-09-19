@@ -11,10 +11,13 @@ many papers and presentations over the years this is a selection of publishable 
  * [Introduction to Web SRD](/assets/pdf/WebSdr.pdf)
  * [Practical uses for   your nano VNA](/assets/pdf/RSGB_Convention-2023.pdf)
  * [Software  Defined Radio](/assets/pdf/A_NewGoldenAgeOfRadio.pdf)
+ * [A Rapid Channel Identifier for EW Receivers](/assets/pdf/wjtechnotesv14n5.pdf)
  * [Using Your nVNA to Demistify RF Filters](/assets/pdf/RadCommArticle.pdf)
  * [Measurement Automation using Python](/assets/pdf/MeasurementAutomationusingPython.pdf)
  * [Microwave Filter Design from a Systems Perspective](/assets/pdf/S403-004-2.pdf)
  * [Power Amplifiers](/assets/pdf/PowerAmpTrends.pdf)
+ * [Three steps the High Amplifier Efficiency IMS2005](/assets/pdf/Three Steps to High Efficiency 3G AmplifiersIMS2005.pdf)
+ * [3G Workshop IMS2001](/assets/pdf/3GWorkshopIMS2001.pdf)
 
 Also please look at the [downloads](/pages/downloads) page for some of my favourite papers.  Links on the web come and go, so I have saved the pdfs here for others to use and keep for themselves. 
 

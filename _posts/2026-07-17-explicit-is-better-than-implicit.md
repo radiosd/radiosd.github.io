@@ -14,6 +14,6 @@ Zen of Python.
 
 Some disparage of the idea of duck typing and the lack of symbol types, but this to me rather misses 
 the point.  Python is typed in the sense that there is one (and only one) type and that is object. 
-Once you properly embrace that the other objections fall away.
+Once you properly embrace that, all the other objections fall away.
 
-Symbols refer to objects and it is the internal structure of them that determins what they do.
+Symbols refer to objects and it is the internal structure of them that determins what they cab do.
