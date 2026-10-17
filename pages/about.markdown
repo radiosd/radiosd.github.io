@@ -17,4 +17,4 @@ If not, then email me your questions I will try to answer them.
 
 regards Richard
 
-email: r.ranson@ieee.org
+email: richard@radiosystemdesign.co.uk
