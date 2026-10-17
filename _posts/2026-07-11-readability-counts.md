@@ -15,7 +15,7 @@ structures, the way modules are imported and the way one approaches coding does 
 course you only write it once, you (and maybe others) read it many times. So time taken for extra 
 typing or clarity is paid back many fold later.  Also, there is no excuse, editors now have code 
 completion and other tools that save keystrokes, so why have some obscure *i = <some calculation>* when it could 
-be *found_items = <some calculation>*; much clearer.
+be *found_items = <some calculation>* which is much clearer.
 
 Another very important idea here is introspection, where defined objects themselves can be examined 
 for information.  When defining a new class or function, it is not unusual to add some useful 
