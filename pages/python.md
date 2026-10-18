@@ -16,4 +16,4 @@ __Cheat Sheets__ | For common python libraries |
 [scipy](/assets/pdf/downloads/scipy_PythonCheatSheet.pdf) | Core scientific and linear algebra computing libraries |
 __Oneline__| There are many of these, but I think this is the best |
 [Video Documentary](https://pysdr.org/) | An interesting history of Python development |
-[Hitchhikers Guide](https://docs.python-guide.org/) | Essential reading, Installation, Virtualenvs and Logging |
+[Hitchhikers Guide](https://docs.python-guide.org/) | Essential reading, Installation, Virtual envs and Logging |

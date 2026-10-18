@@ -1,5 +1,6 @@
 ---
 title: Now is better than never
+clesses: wide
 tags:
 - Python
 ---

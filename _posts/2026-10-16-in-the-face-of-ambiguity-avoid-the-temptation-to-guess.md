@@ -1,5 +1,6 @@
 ---
 title: In the face of ambiguity, avoid the temptation to guess
+classes: wide
 tags:
 - Python
 ---

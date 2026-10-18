@@ -31,4 +31,4 @@ Use the naviation items or the links below to find out more about radio technolo
 | [Training](/pages/Training) | [Design](/pages/Design) | [Consulting](pages/Consulting) |
 |:----:|:----:|:----:|
 | [![Training](/assets/images/BlackBoard.jpg "Training")](/pages/Training) | [![Design](/assets/images/Design.png "Design")](/pages/Design)| [![Consulting](/assets/images/Consulting.jpg "Consulting")](pages/Consulting) |
-| From<br>fundamentals to 5G<br>we live and breath radio | Custom hardware design |   Experienced advice<br>on RF and microwave  design |
+| From<br>fundamentals to 5G/6G<br>we live and breath radio | Custom hardware design |   Experienced advice<br>on RF and microwave  design |
