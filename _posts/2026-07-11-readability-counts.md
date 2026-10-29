@@ -6,10 +6,10 @@ tags:
 - Python
 ---
 
-This is at the heart of my enthusiasm for Python.  This is not in the sense of the elegant of the 
+This is at the heart of my enthusiasm for Python.  This is not in the sense of the elegance of the 
 syntax [Beautiful is Better than Ugly]( {% post_url 2026-08-17-beautiful-is-better-than-ugly %}), 
 though that must help. It is a matter of usefulness and saving time. I'm sure I am not alone when 
-going back to some of my own code and have to scratch my head to understand it.  Of couse that 
+going back to some of my own code and having to scratch my head to understand it.  Of couse that 
 goes double for someone else's code.  But I really find that the ease of defining functions and 
 structures, the way modules are imported and the way one approaches coding does help. Then of 
 course you only write it once, you (and maybe others) read it many times. So time taken for extra 

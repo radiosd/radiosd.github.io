@@ -7,7 +7,7 @@ classes: wide
 
 Python has the complex data type built-in and handles complex arithmetic easily.  
 
-I worked with several languages before python and most required some hack or additional fudging 
+I worked with several languages before Python and most required some hack or additional fudging 
 to do this, and none (other than good old Fortran) did it simply.  Now one can always use the 
 extendabiliy of a language to implement complex numbers, but that just generates a raft of 
 different implementations and many incompatibilties.  Having it built in keeps is simple, elegant 

@@ -8,7 +8,7 @@ tags:
 
 A brief summary of the training  lectures offered.
 
-The first class for the Radio System Design course was with CEI-Eurppe in Barcelona in 2004. It was also run with 
+The first class for the Radio System Design course was with CEI-Europe in Barcelona in 2004. It was also run with 
 Besser Associates in the USA, starting in San Jose 2006.  Since then the course has updated with technological changes, 
 particularly with respect to 4, 5 and 6G mobile radio innovations.  Also supplemented with basic ideas on the use of DSP 
 (digital signal processing) in 2010.

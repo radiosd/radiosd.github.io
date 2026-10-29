@@ -13,7 +13,7 @@ __Mar 2019:__ Completed new tunable filters with USB control.
 __Aug 2018:__  A substantial new contract for manufacture of USB controlled tunable high Q 
 ceramic resonator filter.
 
-__July 2018:__  Published on github, a comprehensive python class to interface and control 
+__July 2018:__  Published on github, a comprehensive Python class to interface and control 
 ADALM pluto SDR. See [link](https://github.com/radiosd/PlutoSdr)
 
 __Apr 2018:__ Published a paper on SDR and presented it at the April ARMMS conference in 
