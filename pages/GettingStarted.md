@@ -15,13 +15,13 @@ classes: wide
     class="download-btn"
     download
   >
-    💾 Download ISO Image (7GB)
+    💾 Download ISO Image (~7GB)
   </a>
 
 </div>
 
 ----
-![Waterfall Display](/assets/images/40mScreenshot.png){: style="float: left; margin-right: 2em; max-width: 40%"}
+![Waterfall Display](../assets/images/40mScreenshot.png){: style="float: left; margin-right: 2em; max-width: 40%"}
 
 Web SDR gives you a way to try out SDR without even buying a radio. 
 Enthusiasts around the [world](https://rx-tx.info/map-sdr-points) have generously installed SDRs and made them available on the web.  
