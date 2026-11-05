@@ -10,12 +10,11 @@ sidebar:
     to pass that on in some way.
 - title: Interested in SDR?
   text: 'Even if you don''t have a radio take a look at our free guide to see how
-    to use web SDR. <br><br>[Getting Started with SDR](/pages/GettingStarted){: .btn
+    to use web SDR. <br><br>[Getting Started with SDR](/pages/GettingStarted){: .btn [Getting Started with SDR](/pages/GettingStarted)
     .btn--success}'
 - title: Next Class
-  text: Both  the [Essentials of Radio Communication](pages/EoRadComm)  and the [Hands
-    on SDR](pages/HoSDR) classes are currently scheduled for September 21st and 29th
-    in Southampton.
+  text: There are no classes currently scheduled, look out for updates for the [Essentials of Radio Communication](pages/EoRadComm) and the 
+    [Hands on SDR](pages/HoSDR) classes in 2027 and do try the [Getting Started with SDR](/pages/GettingStarted) guide.
 ---
 
 Radio signals are used in a huge variety of applications.  In fact the radio spectrum, 

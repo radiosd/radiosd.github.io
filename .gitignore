@@ -30,3 +30,12 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
+
+# only tracked locally
+_notebooks/
+
+# syncthing files
+.stfolder
+.stignore
+.stversions/
+

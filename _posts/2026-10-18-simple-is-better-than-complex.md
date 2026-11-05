@@ -11,6 +11,6 @@ I agree that for real time processes, where speed is of the essence or something
 
 You see, I think the real advantage of duck typing is that it enables code clarity, in the sense of the naming of symbols. [Readability  counts]({% post_url 2026-07-11-readability-counts %}). It is a real pain to remember, and have to move the editor cursor to add a new type definition line,  just to add a statement needing a  temporary  variable.   Pascal and Delphi were agony in this regard.
 
-I think this is how  and why  obscure code comes about.  Using generic variables or reusing names, conveniently avoids takiing your mind (and cursor) away from the task at hand just to add the type definition statement. 
+I think this is how  and why  obscure code comes about.  Using generic variables or reusing names, conveniently avoids taking your mind (and cursor) away from the task at hand just to add the type definition statement. 
 
 It also saves most of the complexity associated with definition overrides.  There is no need to define separately named functions to do the  equivalent thing for different types. So def square(value): works for int, float, complex etc. The object, value deals with the type; that after all the whole point of object orientation.

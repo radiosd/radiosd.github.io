@@ -1,13 +1,13 @@
 ---
 title: Now is better than never
-clesses: wide
+classes: wide
 tags:
 - Python
 ---
 
 I am thinking here of the immediate interactive nature of the Python interpreter.
 
-Many people discount Python as slow because it is uses an interpreter, though this is a somewhat superficial assessment.  It reminds me of the old and patently false arguments against Forth, the Latin of computer languages.  Anyway, behind the scenes, many commonly used libraries link to optimised compiled libraries, just like other compiled language counterparts.
+Many people discount Python as slow because it is uses an interpreter, though this is a somewhat superficial assessment.  It reminds me of the old and patently false arguments against Forth, the Latin of computer languages.  Anyway, behind the scenes, many commonly used libraries link to optimised compiled code, just like other compiled language counterparts.
 
 The 'compiled' byte code is very compact, efficient and easily mapped into highly optimised code on any given machine.  (again quite like Forth) This is one reason that Python is available on so many different platforms.
 
