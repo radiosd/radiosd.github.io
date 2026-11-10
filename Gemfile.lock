@@ -314,6 +314,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-admin
+  jekyll-relative-links
 
 BUNDLED WITH
    2.6.9

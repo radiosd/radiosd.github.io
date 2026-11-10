@@ -35,4 +35,5 @@ gem "github-pages", group: :jekyll_plugins
 # If you have any other plugins, put them here!
 # Cf. https://jekyllrb.com/docs/plugins/installation/
 group :jekyll_plugins do
+  gem "jekyll-relative-links"
 end
