@@ -4,16 +4,8 @@ tags:
 - Python
 classes: wide
 ---
+Another way of saying keep it simple. Someone with no prior knowledge of your program should still be able to understand what is happening in your code.  This goes back to my previous post about [dot notation](2026-01-24-dot-notation.md).  So not only should the code be easy to understand, and here duck typying is a great help, but being able to back track through the layers of definitions is essential.  Really it all comes back to the idea of name space, which is another Zen of Python.
 
-Another way of saying keep it simple. Someone with no prior knowledge of your program should still
- be able to understand what is happening in your code.  This goes back to my previous post about 
-[dot notation]({% post_url 2026-01-24-dot-notation %} ).  So not only should the code be easy to 
-understand, and here duck typying is a great help, but being able to back track through the layers 
-of definitions is essential.  Really it all comes back to the idea of name space, which is another 
-Zen of Python.
+Some disparage of the idea of duck typing and the lack of symbol types, but this me to rather misses the point.  Python is typed in the sense that there is one (and only one) type and that is object. Once you properly embrace that, all the other objections fall away.
 
-Some disparage of the idea of duck typing and the lack of symbol types, but this to me rather misses 
-the point.  Python is typed in the sense that there is one (and only one) type and that is object. 
-Once you properly embrace that, all the other objections fall away.
-
-Symbols refer to objects and it is the internal structure of them that determins what they cab do.
+Symbols refer to objects and it is the internal structure of them that determines what they can do.
