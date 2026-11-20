@@ -1,5 +1,24 @@
 <!-- start custom head snippets -->
 
+<!-- KaTeX for Obsidian-compatible math rendering -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js"
+  onload="renderMathInElement(document.body, {
+    delimiters: [
+      {left: '$$', right: '$$', display: true},
+      {left: '\\[', right: '\\]', display: true},
+      {left: '\\(', right: '\\)', display: false},
+      {left: '$', right: '$', display: false}
+    ],
+    throwOnError: false
+  });"></script>
+
+<!-- Match math font size to surrounding text -->
+<style>
+  .katex { font-size: 1.0em; }
+</style>
+
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 
 <!-- end custom head snippets -->
