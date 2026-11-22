@@ -16,5 +16,6 @@ sidebar:
 |[Bardeen](/assets/pdf/downloads/Bell-1949-Transistors-77-113.pdf) | Physical Principles Involved in Transistor Action, Bardeen and Bratain |
 |[Cohen](/assets/pdf/downloads/Direct-Coupled-Resonator-Filter-Semour-Cohn.pdf) | Seymour Cohen describes the foundation of numerous cavity filter designs |
 |[Marconi_1](/assets/pdf/downnloads/HistoryOfRadio1.pdf)  [Marconi_2](/assets/pdf/downnloads/HistoryOfRadio2.pdf) |A fascinating history of Guglielmo Marconi by G A Isted, who was his assistant  personally seeing to all working for the Marconi Co. from 1923 - 1969 |
+| [Welch](../assets/pdf/downloads/Welch_MethodOfPowerSpectraEsimation.pdf) |Peter Welch's paper describing multiple overlapping periodograms for an improved visualisation for power spectra |
 |[Hogenauer](/assets/pdf/downloads/HogenauerCIC.pdf) | The original paper describing what in now the workhorse CIC filter |
 |[Mitola](/assets/pdf/downloads/softwareRADarch.pdf) | Joe Mitola's amazing vision about SDR in 1995 

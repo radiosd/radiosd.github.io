@@ -12,8 +12,9 @@ sidebar:
 |[DSP Foundations](/pages/DSP_Essentials) | A set of short presentations by well regarded experts on the essentials |
 |[Lyons-1](/assets/pdf/downloads/QuadSignals-1.pdf) | Rick Lyons' "Complex but not Complicated" explanation of IQ signals |
 |[Lyons-2](/assets/pdf/downloads/Reducing_IIR_Comp_Workload_Lyons.pdf) | An invaluable reference by Rick Lyons, reducing the multiplies in an IIR filter |
-|[Robertson-1](/assets/pdf/downloads/dft_and_windows_94682.pdf) | Neil Robertson explains why window functions are important to using the DFT|
-|[Robertson-2](/assets/pdf/downloads/A_Simplified_Matlab_Function_for_Power_Spectral_Density.pdf) | Neil explains why relating a DFT output to the familiar spectrum analyser output is tricky.|
+|[Robertson-1](../assets/pdf/downloads/LearnToUseTheDiscreteFourierTransform.pdf) | Neil Robertson's introduction to understanding the DTF |
+|[Robertson-2](../assets/pdf/downloads/dft_and_windows_94682.pdf) | Neil explains why window functions are important to using the DFT|
+|[Robertson-3](../assets/pdf/downloads/A_Simplified_Matlab_Function_for_Power_Spectral_Density.pdf) | Neil explains why relating a DFT output to the familiar spectrum analyser output is tricky.|
 |__Online__ | One of many, but also available as a downloadable book |
 |[SDR4Engineers](https://www.analog.com/en/resources/technical-books/software-defined-radio-for-engineers.html) | From the great folks at Analog Devices, the only downside is that all the code is in Matlab |
 |[PySDR](https://pysdr.org) | A very comprehensive guide to SDR using python to demonstrate many priinciples |

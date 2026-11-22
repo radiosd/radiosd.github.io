@@ -17,7 +17,7 @@ Public courses are available by request from [CEI-Europe](https://www.cei.se/ins
 [R&S Technology Academy](https://www.rohde-schwarz.com/cloud/store/GB/en/EUR/product/3716.8618.40/R&S%C2%AEHands%20-on%20Software%20Defined%20Radio%20Concepts).
 
  * The 3 day Essentials of Radio course condenses years of industrial experience in radio systems 
-into managable topics that cover all the important aspects.  See this [summary](/pages/EoRadComm) for more information. 
+into manageable topics that cover all the important aspects.  See this [summary](/pages/EoRadComm) for more information. 
 
  * The 2 day SDR course is a practical approach to understanding the mathematical basis of digital 
 signal processing (DSP) using actual radio hardware to solidify the understanding. See this [summary](/pages/HoSDR) for more information. 
