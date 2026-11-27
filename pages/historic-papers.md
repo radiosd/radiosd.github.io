@@ -14,6 +14,7 @@ sidebar:
 [Nyquist](../assets/pdf/downloads/bstj3-2-324.pdf) |Harry Nyquist's original paper, the key so understanding DSP 
 [Shannon](../assets/pdf/downloads/shannon1948.pdf) |Paper by Claud Shannon the father of information theory
 |[Bardeen](../assets/pdf/downloads/Bell-1949-Transistors-77-113.pdf) | Physical Principles Involved in Transistor Action, Bardeen and Bratain |
+|[Cooley](../assets/pdf/downloads/cooley-tukey-FFT.pdf) | Cooley and Tukey description of the FFT algorithm |
 |[Cohen](../assets/pdf/downloads/Direct-Coupled-Resonator-Filter-Semour-Cohn.pdf) | Seymour Cohen describes the foundation of numerous cavity filter designs |
 |[Marconi_1](../assets/pdf/downloads/HistoryOfRadio1.pdf)  [Marconi_2](../assets/pdf/downloads/HistoryOfRadio2.pdf) |A fascinating history of Guglielmo Marconi by G A Isted, who was his assistant  personally seeing to all working for the Marconi Co. from 1923 - 1969 |
 |[Welch](../assets/pdf/downloads/Welch_MethodOfPowerSpectraEsimation.pdf) |Peter Welch's paper describing multiple overlapping periodograms for an improved visualisation for power spectra |
