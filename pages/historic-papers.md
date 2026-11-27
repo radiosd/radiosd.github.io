@@ -3,19 +3,19 @@ layout: single
 classes: wide
 sidebar:
  - title: "Classic References"
- - text: "See also<br>[__SDR__](/pages/sdr)<br>[__Python__](/pages/python)<br>[__Books__](/pages/books)"
+ - text: "See also<br>[__SDR__](../sdr)<br>[__Python__](../python)<br>[__Books__](../books)"
 ---
 
-|[Maxwell](/assets/pdf/downloads/MathematicalClassificationofPhysicalQuantities_Maxwell.pdf) |First description and rational for the curl operator |
-|[DeForest](/assets/pdf/downloads/TheAudionWirelessTelegraphy1907.pdf) |Lee DeForest's description of the audion (aka triode) |
-|[Armstrong_1](/assets/pdf/downloads/00573757.pdf) | Edwin Armstrong's account of how the audion really worked  |
-|[Black](/assets/pdf/downloads/bstj13-1-1.pdf) | The original paper on negative feedback |
-|[Armstrong_2](/assets/pdf/downloads/Armstrong1936.pdf) | Edwin Armstrong's original paper on FM |
-[Nyquist](/assets/pdf/downloads/bstj3-2-324.pdf) |Harry Nyquist's original paper, the key so understanding DSP 
-[Shannon](/assets/pdf/downnloads/shannon1948.pdf) |Paper by Claud Shannon the father of information theory
-|[Bardeen](/assets/pdf/downloads/Bell-1949-Transistors-77-113.pdf) | Physical Principles Involved in Transistor Action, Bardeen and Bratain |
-|[Cohen](/assets/pdf/downloads/Direct-Coupled-Resonator-Filter-Semour-Cohn.pdf) | Seymour Cohen describes the foundation of numerous cavity filter designs |
-|[Marconi_1](/assets/pdf/downnloads/HistoryOfRadio1.pdf)  [Marconi_2](/assets/pdf/downnloads/HistoryOfRadio2.pdf) |A fascinating history of Guglielmo Marconi by G A Isted, who was his assistant  personally seeing to all working for the Marconi Co. from 1923 - 1969 |
-| [Welch](../assets/pdf/downloads/Welch_MethodOfPowerSpectraEsimation.pdf) |Peter Welch's paper describing multiple overlapping periodograms for an improved visualisation for power spectra |
-|[Hogenauer](/assets/pdf/downloads/HogenauerCIC.pdf) | The original paper describing what in now the workhorse CIC filter |
-|[Mitola](/assets/pdf/downloads/softwareRADarch.pdf) | Joe Mitola's amazing vision about SDR in 1995 
+|[Maxwell](../assets/pdf/downloads/MathematicalClassificationofPhysicalQuantities_Maxwell.pdf) |First description and rational for the curl operator |
+|[DeForest](../assets/pdf/downloads/TheAudionWirelessTelegraphy1907.pdf) |Lee DeForest's description of the audion (aka triode) |
+|[Armstrong_1](../assets/pdf/downloads/00573757.pdf) | Edwin Armstrong's account of how the audion really worked  |
+|[Black](../assets/pdf/downloads/bstj13-1-1.pdf) | The original paper on negative feedback |
+|[Armstrong_2](../assets/pdf/downloads/Armstrong1936.pdf) | Edwin Armstrong's original paper on FM |
+[Nyquist](../assets/pdf/downloads/bstj3-2-324.pdf) |Harry Nyquist's original paper, the key so understanding DSP 
+[Shannon](../assets/pdf/downloads/shannon1948.pdf) |Paper by Claud Shannon the father of information theory
+|[Bardeen](../assets/pdf/downloads/Bell-1949-Transistors-77-113.pdf) | Physical Principles Involved in Transistor Action, Bardeen and Bratain |
+|[Cohen](../assets/pdf/downloads/Direct-Coupled-Resonator-Filter-Semour-Cohn.pdf) | Seymour Cohen describes the foundation of numerous cavity filter designs |
+|[Marconi_1](../assets/pdf/downloads/HistoryOfRadio1.pdf)  [Marconi_2](../assets/pdf/downloads/HistoryOfRadio2.pdf) |A fascinating history of Guglielmo Marconi by G A Isted, who was his assistant  personally seeing to all working for the Marconi Co. from 1923 - 1969 |
+|[Welch](../assets/pdf/downloads/Welch_MethodOfPowerSpectraEsimation.pdf) |Peter Welch's paper describing multiple overlapping periodograms for an improved visualisation for power spectra |
+|[Hogenauer](../assets/pdf/downloads/HogenauerCIC.pdf) | The original paper describing what in now the workhorse CIC filter |
+|[Mitola](../assets/pdf/downloads/softwareRADarch.pdf) | Joe Mitola's amazing vision about SDR in 1995 

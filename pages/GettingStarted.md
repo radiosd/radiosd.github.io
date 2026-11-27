@@ -30,8 +30,8 @@ All you need is an internet connection, a web browser and some help to get start
 
 
 
-![IKiwiSDR control Panel](/assets/images/KiwiSDRControl.png){: style="float: right; margin-left: 2em; max-width: 30%"}
-If you would like to find out more download a free presentation that acts as a [guide](/assets/pdf/WebSdr.pdf).
+![IKiwiSDR control Panel](../assets/images/KiwiSDRControl.png){: style="float: right; margin-left: 2em; max-width: 30%"}
+If you would like to find out more download a free presentation that acts as a [guide](../assets/pdf/WebSdr.pdf).
   Essentially your web connection allows you to listen in and control an SDR remotely, with the guide 
 showing:
  * Examples of web SDRs and where you can find others
@@ -47,13 +47,13 @@ Ubuntu ISO image file.  From there you can follow the instructions to create a b
 learn more from the getting started guide and be able to use GNU Radio for yourself.
 
 <!-- skip this for now as I think it can be done better
-# There is also a zip file download (~6GB) that is an Ubuntu ISO image that you can use ... 
+# There is also a zip file download that is an Ubuntu ISO image that you can use ... 
 The presentation also show how to record signals for further processing using GNU Radio.  
-If you would like to learn more about that then download an Ubuntu live the [ISO image](https://drive.google.com/file/d/1MK9K7BvnH-R_97jZQC0n5P83CiIdzrke/view?usp=sharing) that has all that pre-installed.
-It is quite large (~6GB) and depending on your internet connection will 
+If you would like to learn more about that, then download an Ubuntu live distributiiions using the buttin above that has all that pre-installed.
+It is quite large (~7GB) and depending on your internet connection will 
 take several minutes to download.  
 Once downloaded, unzip it to see 4 files, 3 are information and 1 is the Ubuntu ISO image file.  
 From there you can follow the instructions to create a boot disk, learn more from the getting 
 started guide and be able to use GNU Radio for yourself. -->
 
-To start listening to WebSDR straight away, try looking at the [world map](https://rx-tx.info/map-sdr-points) to see how many SRDs are out there, pick one and give it a try.  Two good examples in different time zones are [GB0SNB](http://sdr.gb0snb.com:8073/) and [KFS ](http://kiwisdr.kfsdr.com:8077/); the latter of which has several SDRs on an established radio station site. Remember that radio propagation varies considerably with frequency and time of day, so if you don't see any activity on the radio you pick, it may just be quiet at that moment; try another band or location. With Web SDR, the world really is at your fingertips.
+To start listening to WebSDR straight away, try looking at the [world map](https://rx-tx.info/map-sdr-points) to see how many SRDs are out there, pick one and give it a try.  Two good examples in different time zones are [GB0SNB](http://sdr.gb0snb.com:8073/) and [KFS ](http://kiwisdr.kfsdr.com:8077/); the latter of which has several SDRs on an established radio station site. Generally, web SDRs ask you to login with a name or callsign and you can use any name; these are receive only systems and so do not require a radio licence to operate them.  Remember that radio propagation varies considerably with frequency and time of day, so if you don't see any activity on the radio you pick, it may just be quiet at that moment; try another band or location. With Web SDR, the world really is at your fingertips.

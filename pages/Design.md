@@ -4,7 +4,7 @@ layout: single
 classes: wide
 ---
 
-![Image description](/assets/images/Design.png){: style="float: left; margin-right: 2em; max-width: 40%"}
+![Image description](../assets/images/Design.png){: style="float: left; margin-right: 2em; max-width: 40%"}
  RSD has extensive experience in military and commercial radio systems, successfully 
 completing a wide variety of projects ranging from specialist radar receivers, 
 EW and intelligence gathering radios, instrumentation such as spectrum analysers and 

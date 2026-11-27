@@ -33,6 +33,7 @@ _site
 
 # only tracked locally
 _notebooks/
+_rgr
 
 # syncthing files
 .stfolder

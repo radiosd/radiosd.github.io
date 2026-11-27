@@ -4,7 +4,7 @@ layout: single
 classes: wide
 sidebar:
 - title: Book Recomendations
-- text: See also<br>[__Historic__](/pages/historic-papers)<br>[__SDR__](/pages/sdr)<br>[__Python__](/pages/python)
+- text: See also<br>[__Historic__](../historic-papers)<br>[__SDR__](../sdr/)<br>[__Python__](../python)
 ---
 
 ## Radio History

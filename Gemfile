@@ -37,3 +37,7 @@ gem "github-pages", group: :jekyll_plugins
 group :jekyll_plugins do
   gem "jekyll-relative-links"
 end
+
+group :development do
+  gem "html-proofer"
+end

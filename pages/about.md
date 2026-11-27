@@ -1,0 +1,20 @@
+---
+title: About
+layout: single
+classes: wide
+---
+
+Radio System Design is an RF, Microwave and Systems design consultancy with 
+more than 40 year experience in the commercial and military telecommunications industry.
+This experience is leveraged into some interesting [training](../pages/Training.md) classes, bespoke 
+product [design](../pages/Design.md) and some success helping others via [consulting](../pages/Consulting.md).
+
+Take a look at the [downloads](../pages/downloads.md) section for links to historic publications, 
+my own [publications](../pages/publications.md) and browse the blog posts (under construction) for [history](../_posts/2020-12-31-rsd-old-news.md) and background to this site.
+
+I hope you have found this site interesting and found what you were looking for. 
+If not, then email me your questions I will try to answer them.
+
+regards Richard
+
+email: richard@radiosystemdesign.co.uk

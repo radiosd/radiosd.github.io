@@ -8,20 +8,20 @@ sidebar:
     broken out into broad categories.
 ---
 
-[__Historic__](/pages/historic-papers)
+[__Historic__](../pages/historic-papers.md)
 These are classic papers, that represent key advancements in radio technology.  It is neither 
 authoritive or complete, but still interesting in my view.
 
-[__SDR__](/pages/sdr)
+[__SDR__](../pages/sdr.md)
 One of the most important developments in radio in recent times. There are lots of possible links to
 add, but these are a few that I think are readable explanations of what is otherwise a dry mathematical subject.
 
-[__Python__](/pages/python)
+[__Python__](../pages/python.md)
 Not wishing to get into flame wars about programming languages, this is an unabashed plug for one option.
 I discovered Python over 20 years ago and gave up on all other programming for the simple reason that I found 
 that it helped me get things done.  Then, when I started running a small business, the fact that it is absolutely free, has a tremendous 
 libraries with a vibrant and helpful community just solidified that choice.
 
-[__Books__](/pages/books)
+[__Books__](../pages/books.md)
 Not strictly speaking downloads, but these are a few non-technical books about technology that I have found 
 __a good read__. I hope you do as well.
